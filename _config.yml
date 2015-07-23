@@ -4,10 +4,10 @@
 
 # Site
 title: 荀木狼之镜
-subtitle: 
-description:
+subtitle: 十袭珍藏，但誓传家而永寳
+description: 不知道在哪里显示
 author: cxumol
-language: zh-ch zh-tw en-us
+language: zh-CN
 timezone: 
 
 # URL
@@ -15,6 +15,7 @@ timezone:
 url: http://cxumol.github.io
 root: /
 permalink: :title/
+
 permalink_defaults:
 
 # Directory
@@ -24,7 +25,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: :zh-cn
+i18n_dir: :zh-CN
 skip_render:
 
 # Writing
