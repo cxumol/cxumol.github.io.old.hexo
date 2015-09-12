@@ -1,4 +1,4 @@
-看上去爱好广泛的家伙，其实是个专业[锯木头](http://www.forestry.ubc.ca/students/undergraduate/prospective/degree-programs/wood-products-processing/)的，认死理、较真，且毫无趣味的书呆子。  
+看上去爱好广泛的家伙，其实是个专业[锯木头](http://www.forestry.ubc.ca/students/undergraduate/prospective/degree-programs/wood-products-processing/)的，脆弱、纠结、认死理、较真，且毫无趣味的书呆子。  
 
 一些<a title="乱七八糟的">主要的</a>爱好是:  
 
