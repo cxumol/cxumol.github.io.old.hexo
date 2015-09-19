@@ -1,5 +1,6 @@
-tags: 
-categories: 
 title: {{ title }}
+categories: 
+tags: 
+permalink: {{ permalink }}
 description: 
 ---
