@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[荀木狼之镜]]></title>
+  <subtitle><![CDATA[十袭珍藏，但誓传家而永寳]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.cxumol.com/"/>
+  <updated>2015-09-19T11:19:22.582Z</updated>
+  <id>http://www.cxumol.com/</id>
+  
+  <author>
+    <name><![CDATA[cxumol]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[大话 markdown]]></title>
+    <link href="http://www.cxumol.com/no-b-markdown/"/>
+    <id>http://www.cxumol.com/no-b-markdown/</id>
+    <published>2015-09-07T15:38:46.000Z</published>
+    <updated>2015-09-19T11:19:22.582Z</updated>
+    <content type="html"><![CDATA[<p>申明：本文纯属虚构，只求故事性，不求严谨</p>
+<h2 id="word-sucks">word sucks</h2>
+<p>请您设想这样的场景：</p>
+<blockquote>
+<p>普通少年先驱甲，由于工作需要，常常在电脑上打字。<br>小伙伴赵日天曾告诉先驱甲：“Word 功能强大，普及率广，甚至几乎每间办公室都离不开它。”<br>时间久了，先驱甲却发现，其实 word 的缺点不少。比如没自动保存；再如在不同电脑上打开，显示效果不一样；又如.doc 和.docx 格式兼容的问题</p>
+</blockquote>
+<p>那一刻，先驱甲掷地有声：</p>
+<blockquote>
+<p>或许我们所写的大部分文稿，根本用不上 word 提供的那么多排版功能。</p>
+</blockquote>
+<h2 id="纯文本主义">纯文本主义</h2>
+<blockquote>
+<p>先驱甲同学，暂别复杂的 word 后，拥抱了纯洁得像水一样的“记事本”<br>TA 冲镜头邪魅一笑，道：“记事本小巧简单朴素环保易用速度快，谁用谁知道哇。”<br>其实，TA 没有那么壮烈地，就把 word 卸载掉。<br>只是用纯文本快速、流畅地写好后，再往 word 粘贴，加上 TA 需要的排版格式</p>
+</blockquote>
+<p>解释一下。通常来说，纯文本可以理解为保存在 txt 里的内容。可别误认为.txt 只能用记事本开，事实上，能看文字的软件都能打开 txt，比如写字板、word、手机小说阅读应用，甚至是浏览器……</p>
+<p>所以我们说，用纯文本写作的最大好处，便是不受限制的查看和编辑了。</p>
+<h2 id="轻量标记语言与高级文本编辑器">轻量标记语言与高级文本编辑器</h2>
+<blockquote>
+<p>文章写长了，先驱甲总是遗忘哪里需要加上格式。这可不好:(<br>但人家毕竟是先驱，很快就想到了办法。<br>TA 把键盘上常见但实际少用的符号，或单独，或加以组合，作为记号。<br>哪里需要加粗，哪里需要斜体，等等，咱就用记号给他标记上。</p>
+</blockquote>
+<p>嗯，这个技巧，后人称之为“轻量标记语言”</p>
+<blockquote>
+<p>先驱乙是先驱甲的好 G 友。<br>某天，先驱甲对先驱乙说：</p>
+<blockquote>
+<p><strong>用 word 给文章排版，十分合适；若只是撰写文章 —— 或许会有更好的选择。</strong></p>
+</blockquote>
+<p>于是先驱乙也学会了这种技巧。<br>乙发现这个法子妙，也告诉了先驱丙丁 <br> 不过，先驱乙暗想：“虽然，记事本‘小巧简单朴素环保易用速度快’，但，<em>不合吾装逼之道</em>！”<br>TA 很快就搞到了功能强劲，比记事本好用 N 倍的高级文本编辑器——<a href="http://www.xiazaiba.com/html/186.html" target="_blank" rel="external">Notepad++</a></p>
+</blockquote>
+<h2 id="markdown- 的诞生">markdown 的诞生</h2>
+<blockquote>
+<p>先驱丙轻推桌沿，转椅回转，面向甲乙丁：“我们每人用到的标记都不同。如果哪一回我和乙合作写稿子，岂不会乱了套？不如让我们选出几个最最常用的格式，确定一下记号。先约定俗成，以后就作为规范啦”<br>先驱甲乙丁兴奋地点头：“好呀好呀！”<br>因为先驱甲的俗家姓名，叫“马克”。众人便将这种规范，命名为“马克裆”</p>
+</blockquote>
+<p>先驱们到底是厉害，他们创立的规范，即使不经过 word 加上格式，也能让人从记号本身，猜到并把排版格式脑补出来。<br>比如，<code>* 本段话被强调了 *</code>，<code>&gt; 啊，这段话是引用的 </code>， <code>---</code> 这个独占一行，表示分割线 <br> 嘿嘿，是不是一目了然？</p>
+<p>至此，借助这种技巧，用这些记号修饰过的纯文本，可以用两种方法，摇身一变，成为格式精美、排版到位的富文本：</p>
+<ul>
+<li>复制到 word ， 手动改<br></li>
+<li>脑补</li>
+</ul>
+<blockquote>
+<p>先驱丁看到上面这两种方法，还是觉得别扭。</p>
+<blockquote>
+<p>为什么就不能让电脑聪明点呢？<br>能不能当一篇文章写完了，只管交给它，让它看到哪里有哪种记号，就给他加上哪种格式呢？</p>
+</blockquote>
+<p>于是先驱丁到实验室里，大门一关，夜以继日的钻研黑魔法和炼金术 <br> 三天后，终于发明了“马克裆渲染器”</p>
+</blockquote>
+<p>渲染器这家伙，就像烤面包机一样：<sub>带“标记语言”纯文本 </sub> 进；<sub>香喷喷的、格式精美的富文本 </sub> 出。<br>终于，Markdown 脱离了 Word 的襁褓，迎来了新生，成为了独立的存在。</p>
+<p>请看图 <img src="https://cloud.githubusercontent.com/assets/8279655/9785753/26bfbe94-57e7-11e5-9e67-cec42383665c.png" alt="如图，Markdown 渲染器的实时预览功能"></p>
+<h2 id="不装逼的 -markdown">不装逼的 markdown</h2>
+<p>时移世易，沧海桑田。先驱人已殁，节操代代传。</p>
+<p>可惜世风日下，人心不古</p>
+<p>202X 年，许多掌握 markdown 的人，自觉逼格高人一等，常常对只会使 word 的人，投之以不屑的目光。宇宙装逼大赛组委会也将 markdown 列为加分项目之一。markdown 俨然成了装逼者吹捧的神技。</p>
+<p>渐渐地，被捧上神坛的 markdown 成了高贵冷艳的象征之一。许多人只闻其名而不见其神。更多人只看一眼它的名字便走开，说：“我还是食人间烟火吧”，便打消了了解 markdown 的兴趣。</p>
+<p>又是很多年过去……</p>
+<p>太阳依旧挂在晴朗的天空，一位名叫贾区先的少年，来到自家后院，拂去岁月的尘土，找到失落的宝藏。</p>
+<p>那是一张泛黄的 16 开作业本纸，显得密密麻麻的标记语法，早已被岁月蚕蚀地模糊不清。翻到反面，几行字却依旧清晰醒目</p>
+<blockquote>
+<p>Markdown 设计哲学：<br>1. 专注：实现形式与内容的分离<br>2. 简约：用最简的语法达到效果<br>2. 直观：符合人直觉的表达方式<br><em>—— 先驱甲 留</em></p>
+</blockquote>
+<hr>
+<p><code>注：其实 markdown 跟 word 扯不上多少关系。既然大众深信 “写稿必用 word” ，特此拨乱反正。</code></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[作为小众而热门的文字编辑格式，markdown 备受装逼者吹捧。可是谁又能想到，逼格背后，竟然隐藏了这样的故事]]>
+    
+    </summary>
+    
+      <category term="探奇" scheme="http://www.cxumol.com/categories/%E6%8E%A2%E5%A5%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[如果博客是一本书]]></title>
+    <link href="http://www.cxumol.com/blog2epub/"/>
+    <id>http://www.cxumol.com/blog2epub/</id>
+    <published>2015-08-22T14:56:53.000Z</published>
+    <updated>2015-09-19T11:19:22.580Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>……那么，我愿把“如果”两字去掉</p>
+</blockquote>
+<p>博客出书，不胜枚举:《暗时间》、《万万没想到》、《说服力》、《正版语文》……<br>不严格的说，《明朝那些事儿》也算此列吧。</p>
+<p>这些人写的文章，明明在网上公开发布过，又印成铅字，出版一遍。稿酬客观，居然买的人不少。简直人生赢家。</p>
+<p>赘述这么多，其实都是废话。 本篇讨论的，是另一种博客成书——也就是某个 <strong> 热心的 </strong> 粉丝读者，把作者的网上文集 <strong> 扒</strong>下来，然后做成电子书的故事。</p>
+<h2 id="明确需求">明确需求</h2>
+<p>对于一个博客的老读者而言，<a href="../atom.xml">在线订阅 </a> 最省心省力<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>。对于更新频繁的博客，更加管用，因为这样确保读者随时跟上进度。</p>
+<p>当然，如果只是随意浏览，新老之分毫无意义。博客原本就适用于游览式地看。<br>世况有变。遇见了 <a href="http://lihuazhi.com" target="_blank" rel="external"> 李华治先生的博客 </a>。 几篇文章读下来，越发体会到其叙事精彩，抒情悠长，评论痛快，文气充盈，文风对胃口。<br> 真想一口气全部读下来。</p>
+<p>痴人说梦。时间本来就不属于每个人自己。只得留着慢慢看。</p>
+<p>暗忖：</p>
+<blockquote>
+<p>博客系统按 <strong> 日期先后 </strong> 发表文章，如果要看最老的一篇，必须翻到最后一页。<br>看到后面的文章时，每次都得翻页 <strong> 很麻烦 </strong>。中断时，还必须 <strong> 自己记住进度 </strong>（读到的那一篇……是在第几页来着？）。<br> 我认为更好的方式，是从老文章读到新文章。顺流而下，也算历经一次作者成长的过程。但这不就得从最后一页翻到第一页吗……</p>
+</blockquote>
+<blockquote>
+<p>况且，老夫已不再是当年那个 <em> 在电脑上看小说的 </em> 我了。如今早已习惯移动阅读——单独走路时，坐巴士时，拿起手机，都可以看，可谓省时不费事。</p>
+</blockquote>
+<blockquote>
+<p>手机阅读，虽随时随地，仍有局限。譬如网络不稳，又如电量不多。联网时，电掉得快，可谓两相结合。</p>
+</blockquote>
+<p>这样看来，最佳方案是 <strong> 把博客做成电子书，手机上看 </strong>。<br> 来来来，数一数优点：</p>
+<ol style="list-style-type: decimal">
+<li>制作时可以自定阅读顺序。从老文章一路看到新文章，很平滑</li>
+<li>同上，自定排版格式</li>
+<li>手机离线显示，省电</li>
+<li>阅读进度不会丢失</li>
+</ol>
+<h2 id="制定计划">制定计划</h2>
+<ul>
+<li>扒文章
+<ul>
+<li>分析每篇文章的网址，并下载网页</li>
+<li>分析网页结构，只把文章标题、日期、内容扣下来，其他的不要</li>
+<li>把扣下来的文章，分门别类的保存</li>
+</ul></li>
+<li>转换成电子书
+<ul>
+<li>选取合适的电子书格式，并用恰当的转换工具转换</li>
+<li>生成目录，设计排版</li>
+<li>扉页，作者信息一些可有可无的东西</li>
+</ul></li>
+</ul>
+<h2 id="不要怂就是干">不要怂，就是干</h2>
+<p><a href="./#over"><font color="#e51c23">前方乃一些枯燥无聊的技术细节，<strong>点我跳过</strong>，眼不见心不烦</font></a></p>
+<h3 id="扒文章">扒文章</h3>
+<p>扒文章当然需要制作 <a href="http://www.baike.com/wiki/%E7%88%AC%E8%99%AB%E7%A8%8B%E5%BA%8F" target="_blank" rel="external"> 爬虫 </a>。制作爬虫当然<a href="http://xiaoxia.org/2012/11/02/python-cralwer/" target="_blank" rel="external"> 得用 python</a>。用 python 当然得用 miniconda 发行版，和 spyderIDE。哎呀，扯远了</p>
+<p>python 库多，任性。<br>用哪些库？因为要联网，所以要 urllib2；要读写文件，用 os；还要分析网页结构，这个一会儿再说。哦，可以先透露一下，全部都是用的内置标准库哟。</p>
+<p><strong>分析网址:</strong> 这个文章地址啊，too simpile ! 结构形如 <code>http://lihuazhi.com/123</code> 其中 123 换成随便一个什么正整数。开头简直顺利得……</p>
+<p><strong>下载网页：</strong> 没想到 404 等错误直接反馈给了 urllib2.urlopen()，枉我分析 404 页特征一场空。另外得把以图片为主的两个分类排除掉，不下载</p>
+<p><strong>分析内容：</strong> 见过太多人吐槽 <em> 美汤 </em> 这个库又慢又不好使。于是我去看了看 lxml 和 Xpath。很多人推荐很多人用，但中文资料不多，我这种渣能看懂的更少。勉强看官方文档，懂了一点。然后放弃了 lxml。<br>到头来，分析网页用的工具还是——re！正则表达式简单易懂！实乃居家旅行，xxxx 之必备良药，打遍天下都不怕不怕啦。用 re 分析，关键是懂得 <code>.+?</code> 和<code>gruop()</code>，不要漏了<code>re.S</code>(DOTALL 模式)，其他请随意。</p>
+<p><strong>内容缓存：</strong> 大蟒摸了这么久，数据结构却没用过几个。本来想用从前没用过的 dict 来存。但是 <em> 哥</em>发现了逼格更高的结构——类。很好哥也是写过面向对象的人了又一个从 0 到 1 的突破哈哈哈。既然确定了类为主体，除了用来存标题日期等的属性以外，不在旗下挂几个方法是说不过去的。于是有了 get() ，有了 save()。</p>
+<p><strong>内容保存：</strong> 这就是刚刚提到的 save() 干的活，其实没什么好说的。之前提取到了带标记含元素的 <code>html</code> 代码块，文件直接存为 <code>%category%/yymm%title%.html</code>。别忘了如果目录不存在，还要额外写几行来建个目录。<br> 什么？听说作为 <code>html</code> 文件标准格式，前后要有 <code>DOCTYPE!htmlheadbodyooxx</code>？真麻烦，不管了。没那些玩意的<code>html 文件</code> 照样能 <strong> 在哥的浏览器里显示得好好的</strong>。谁不服？请咬我！<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p>
+<blockquote>
+<p>到最后一个环节还真有家伙不服咬我了。我今天算是小小地埋了伏笔一下。</p>
+</blockquote>
+<h3 id="转 epub">转 epub</h3>
+<p>电子书当然要用 epub 格式的。这种格式，手机、kindle(越狱后)通杀，各种软件支持，排版格式神马丰富全面。</p>
+<p>现在，就差怎么把这么多 Html 转换成一个 EPub 格式的电子书了。</p>
+<p><strong>尝试一 </strong> github 上找了个名叫“html2epub”的 python 脚本。试了一下，居然仅支持转换单文件夹的内容。每一个 html 都换成一个 epub。<br> 没一点儿用 <code>&gt;_&gt;</code> 哼</p>
+<p><strong>尝试二 </strong> 据说很神奇的<code>pandoc</code>。按照官方介绍的示例，<a href="http://pandoc.org/epub.html#a-real-book" target="_blank" rel="external"> 多个文件制 epub</a>，依样画瓢。哦，还做了个脚本生成恶心的、折成很多行的命令行。运行……第一行就报错了。连官网的示例都报错。<br>哼，没一点儿用<code>&gt;_&gt;</code></p>
+<p>穷则思变。哥这不是典型的用命令行用傻了吗。一门心思想着命令行工具耍起来威风凛凛，殊不知 GUI 界另有一番广阔天地。啊，又扯远。<sub>低头默讼：“装逼如风，常伴吾身。无形装逼，最为致命。”</sub></p>
+<p><strong>尝试三</strong> 掌上书苑，国内业界知名站点，出了个制作器，叫 epubbuilder。取名有范，看起来挺牛的。试看官方介绍：</p>
+<blockquote>
+<p>书苑开发的 ePub 电子书制作神器，支持多国界面语言，支持 unicode 编辑，支持导入 Txt、epub、Html、chm、snb 等源文件；支持图文混排、音频、视频、多级目录等；方便快捷的界面；无需专业知识也可快速生成一本专业的电子书。</p>
+</blockquote>
+<p>请注意第一句 <strong> 神器 </strong> 两个字。<strong>敢这么自称的，一般还真有两把刷子 </strong>，比如：<a href="http://www.zhuishushenqi.com/" target="_blank" rel="external"> 赘述神器 </a><br> 国货当自强，就决定是您了！<br>下载装好打开。居然要登陆？还好以老 <del> 司机 </del> 夫多年经验，眼尖发现了“离线”按钮，点一下，成功进入。界面上大大地摆着“未授权”。<br>呃。没授权好像不影响使用吧。开工，批量导入 html……然后！导入了乱码！</p>
+<p>霎时没找到改编码的地方，这不重要。重要的是，“未授权”三个字依然在眼前晃来晃去。<br>哼，没用的东西<code>&gt;_&gt;</code> 卸了。</p>
+<p>卸归卸，<s> 装逼大业 </s>还是不能半途而废的。那么，有没有真正 <s> 逼格高 </s> 好用的 epub 制作工具？</p>
+<p>闲扯一句，到底哪种软件才能算 highBger。全是洋文？NONONO！高逼格软件一般具有以下特征：</p>
+<ol style="list-style-type: decimal">
+<li>免费</li>
+<li>开源</li>
+<li>跨平台</li>
+<li>小众</li>
+</ol>
+<p>哦，不好意思，其实标准只有一个，也就是这个那个第四个。</p>
+<p><strong>尝试四 </strong> 朋友，你听说过“sigil”吗？sigil 完全符合前三项标准。<sub> 至于第四项……不敢妄下断言</sub></p>
+<p>sigil 真的超好用，功能完善，支持中文。而且，您瞅这华丽的花体字，逼格满满 <s>，让人单看图标也猜不到跟书有关 </s>，比某苑做的某<em> 神器 </em> 不知道高到哪里去了。 <img src="https://cloud.githubusercontent.com/assets/8279655/9424704/46e2e2f0-4928-11e5-9d4b-4292267d4aa5.png" alt="sigil"></p>
+<h2 id="over">收工</h2>
+<p>一些收尾细节</p>
+<blockquote>
+<p>目录、排版，随便搞一搞。目录用两级：文章分类一级，标题一级。<br>封面，作者信息，扉页这种东西就真没必要了。因为反正只给自己看。（何不众乐乐？因为 <strong> 版权啊版权</strong>。没有经过作者授权，老夫是不会传播的）</p>
+</blockquote>
+<hr>
+<p>俗话说:</p>
+<blockquote>
+<p>现世报，来得快</p>
+</blockquote>
+<p>经上述流程，粗制滥造做出来的电子书，只有 <strong> 多看 </strong> 能正确显示。（还好多看你没有抛弃我 TT）<br>请大家观赏效果图： <strong>如果图片太大，请点击图片以看小图！</strong><br><img src="https://cloud.githubusercontent.com/assets/8279655/9424696/2433b932-4928-11e5-85c0-288508eacc50.png"> 上图为：原本设定的排版</p>
+<p><img src="https://cloud.githubusercontent.com/assets/8279655/9424698/24ad3dca-4928-11e5-995f-e54cd65b9a5b.png" alt="anyview"> 以上是 anyview 上的显示效果</p>
+<p><img src="https://cloud.githubusercontent.com/assets/8279655/9424699/251b3b54-4928-11e5-9789-c147f7fd8848.png" alt="duokan"> 多看阅读</p>
+<p><img src="https://cloud.githubusercontent.com/assets/8279655/9424700/251cd86a-4928-11e5-9548-461b189262a4.png" alt="moon+"> 静读天下 Moon+</p>
+<p>接下来有请搞笑组登台亮相：<br><img src="https://cloud.githubusercontent.com/assets/8279655/9424701/26821f62-4928-11e5-8e1d-c6555fef3e62.png" alt="QD"> 起点读书</p>
+<p><img src="https://cloud.githubusercontent.com/assets/8279655/9424697/24773f68-4928-11e5-8688-47bfed107211.jpg" alt="Yi"> 网易云阅读</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn1"><p>Google Reader 挂掉后，还有 <a href="https://www.v2ex.com/t/71580" target="_blank" rel="external"> 不少替代方案</a><a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>参见后文提到的“现世报”<a href="#fnref2">↩</a></p></li>
+</ol>
+</div>
+]]></content>
+    <summary type="html">
+    <![CDATA[……那么，我愿把“如果”两字去掉]]>
+    
+    </summary>
+    
+      <category term="拙计" scheme="http://www.cxumol.com/categories/%E6%8B%99%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[段子锦囊]]></title>
+    <link href="http://www.cxumol.com/joke-ep/"/>
+    <id>http://www.cxumol.com/joke-ep/</id>
+    <published>2014-10-22T16:00:00.000Z</published>
+    <updated>2015-09-19T11:19:22.581Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>曾几何时，我也是一枚活跃在_QQ 空间_的段子手。如今 QQ 空间不常用了，遂撷取段子，结成锦囊。这样他们就不会溜掉了。</p>
+</blockquote>
+<ul>
+<li>蟹六跪而二螯，无如寡人之用心者，于人为可讥也</li>
+<li>妙蛙种子总是叫“种子，种子”。进化到妙蛙草，就不说话了。</li>
+<li>“王老吉”可以倒过来念的。</li>
+<li>经过一番仔细钻研，我现在知道了那个密封胶圈是可以被抠坏的。我特么宁可不知道这么个知识点。</li>
+<li>看来国庆放假要（通过字幕）研究一下日本文化了</li>
+<li>超级课程表的传单说，“每三个大学生就有一个用它”，敢情剩下俩都用 <strong> 课程格子</strong>。。</li>
+<li>长沙话方言小讲堂：什么，一般说“莫子”，更强烈的语气用“哦改”。比如“要哦改”= 要做什么，“个丝哦改”= 这是为什么。。但当你听见“你要哦改咯”时，就需要注意了！那是他在向你表示友善。为保持礼貌，你也应该回应同样的话。(来自长沙市民俗文化宣传小组)</li>
+<li>代沟小测试：问你们粑粑麻麻如下两个问题：“您思路广不广?”、“您欢乐多不多?”</li>
+<li>猪油碱, 明皇帝 No.16, 主要用于制作肥皂</li>
+<li>在你面前我頓時擁有了身為人類的優越感</li>
+<li>切，霓虹话什么的，我也会说呀： “你滴！神马滴干活！死啦死啦滴！”</li>
+<li>“哼，才不告诉你开启外挂的方式其实是 alt+F4 呢（●＾o＾●）”</li>
+<li>第二句话是假的。第一句话是真的。</li>
+<li>大葱鸭因为炖汤味道鲜美，绝种。但，其实，还是有一类珍惜变种保留下来——初音</li>
+<li>必不得以而去，于斯 n 者何先？子曰：去死！！</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[曾几何时，我也是一枚活跃在QQ空间的段子手。]]>
+    
+    </summary>
+    
+      <category term="谈笑" scheme="http://www.cxumol.com/categories/%E8%B0%88%E7%AC%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[网文发展史传奇]]></title>
+    <link href="http://www.cxumol.com/web-fic_nav/"/>
+    <id>http://www.cxumol.com/web-fic_nav/</id>
+    <published>2014-10-21T16:00:00.000Z</published>
+    <updated>2015-09-19T11:19:22.585Z</updated>
+    <content type="html"><![CDATA[<p>得益于“国情”，美帝等西方商业网站，无法飘洋过海，在大陆落地生根。于是，勤劳的贵国人民，开动脑筋，普遍靠抄袭美帝网站，壮大流量，发家致富，走上 <del> 人生 </del> 行业颠峰。这种现象，作为行业普遍规律，人送雅称“<span style="text-decoration: underline;">Copy to China</span>”。</p>
+<p>然而，有一种的文化产业，却属中华 <strong> 独创</strong>，经过十几年的坎坷增长，繁荣昌盛，成为贵国一支不可忽视力量——网络小说。</p>
+<p>回首网文发展史，可谓岁月峥嵘、风云变幻。一些牛人也曾挥毫，指点江山。这里做一篇汇总，以飨感兴趣的读者。</p>
+<p>（下文及书单所提观点偏好，仅为网络搜集，不反映本人真实喜好）</p>
+<p><strong><a href="http://www.huxiu.com/article/11144/1.html" target="_blank" rel="external">网络文学的前世今生</a></strong></p>
+<p><strong><a href="http://www.tingtaoge.com/thread-43272-1-1.html" target="_blank" rel="external">网络小说扫盲</a></strong></p>
+<p><strong><a href="http://www.zhihu.com/question/23509804" target="_blank" rel="external">中国网络小说的发展历程大体是怎样的？</a></strong></p>
+<p><strong><a href="http://blog.sina.com.cn/s/blog_4989152f01000a8f.html" target="_blank" rel="external">网络小说书站沉浮启示录</a></strong></p>
+<p><strong><a href="http://www.douban.com/doulist/229262/" target="_blank" rel="external">某豆瓣书单</a></strong></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[作为独创性的文化产业，经过十几年的坎坷增长，繁荣昌盛，成为互联网第三产业中，一支不可忽视力量——网络小说。回首网文发展史，可谓岁月峥嵘、风云变幻。]]>
+    
+    </summary>
+    
+      <category term="览胜" scheme="http://www.cxumol.com/categories/%E8%A7%88%E8%83%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[洗镜之时]]></title>
+    <link href="http://www.cxumol.com/time4polish-the-lens/"/>
+    <id>http://www.cxumol.com/time4polish-the-lens/</id>
+    <published>1990-01-01T09:01:55.000Z</published>
+    <updated>2015-09-19T11:19:22.584Z</updated>
+    <content type="html"><![CDATA[<h2 id="微时代 -de- 老顽固">微时代 de 老顽固</h2>
+<p>当下，城里人习惯于在坑上、路边、车里，捧起手机，手指轻划，把各大 <s> 广告 </s> 媒体的推送匆匆浏览而过；3、5 分钟足以刷上几则段子或一组萌猫动图。</p>
+<p>微博微信的微时代，舞台属于碎片化、扁平化、视觉化的图文讯息。</p>
+<p>浪潮汹涌，大势所趋。此情此景，BLOG、RSS 格格不入，俨然积年的老古董。</p>
+<p>上述文字，如果发表在 blog 中，不是落伍者的喟叹，就是老顽固的坚守。<br>不才忝列后者。</p>
+<p>有人不解——都什么年代了，还写博客，图个啥？<br>这时，独立博主们昂起头颅，纷纷亮出神兵：</p>
+<ul>
+<li>刘未鹏大大的 <a href="http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/" target="_blank" rel="external"> 为什么你应该（从现在开始就）写博客</a><br></li>
+<li>陈素封的 <a href="http://zhuanlan.zhihu.com/cnfeat/19743861" target="_blank" rel="external"> 为什么你要写博客？</a></li>
+<li>以及知乎上随手找的 <a href="http://www.zhihu.com/question/19626397/answer/12804231" target="_blank" rel="external"> 博客还有前途吗？</a></li>
+</ul>
+<p>几篇文章看下来，虎躯一震，顿时醍醐灌顶：写博高端千般好，一不留神成大神。便浑身上下，充满力量，热血上头，仿佛立马就能大干一场。</p>
+<p>冷静下来，方见初心↓：</p>
+<h2 id="夙愿起源_中二年代">夙愿起源→_→中二年代</h2>
+<p>初中，博客开始成为我网络小说之后第二大课外阅读来源。<br>开始，只是把偶遇的好文章放到网页收藏夹，后来注意到，他们大多都有个【订阅功能】，恰好自己也有 Google 账号，顺手就用上了 Google Reader，从此阅读更加便利（直到失去, 才懂得 GReader 有多牛 T_T）。</p>
+<p>这些博主，大多扮演着高人，大侠，英雄好汉的角色。中二少年心中，日益增长了崇敬之情。</p>
+<p>种子播下，生根发芽：</p>
+<blockquote>
+<p>有朝一日，少年也将成大侠？</p>
+</blockquote>
+<p><code>注：↑只是文学虚构。真实的故事是，觉得有块自己的地盘，是一件很棒的事</code></p>
+<h3 id="话外篇 - 进击的中二">话外篇 进击的中二</h3>
+<p>初中总和一位热爱玩电脑的 <a href="http://www.jackh.cn/" target="_blank" rel="external"> 同学 </a> 混在一起。有段时间，他热衷于建设网站。在他影响下，也懂了一点相关知识。</p>
+<p>独立博客不再那么高大神秘了。少年的心也开始躁动，火热起来。然而，自己也只是每个月零花钱只有 10 块，还经常花不完，也从没在网上花过钱的乖学生；即使最便宜的收费的空间 / 域名，看起来都像天文数字。结果是：煞费苦心找免费域名空间，菜鸟搭建了第一个 wordpress 站点。<br><code>（以现在价值观看来，找免费的还不如用收费的，因为时间精力成本更宝贵啊）</code></p>
+<p>中学的博客，最终放弃了，原因无非是<s> 访问速度渣、域名挫 </s> 懒。<code>【中学生每天作业写不完。书都读不好，你要他认真写博客？……</code></p>
+<blockquote>
+<p>拥有自己的独立博客</p>
+</blockquote>
+<p>还好，这个执念，一直在。<br>上大学，有种错觉，叫“可以随便花钱反正父母也不知道”。在狗爹上恰好看到“优惠首年 80 元 wp 托管送域名”，就入手搞起了，取名叫——“荀木狼之域”</p>
+<p>呵呵，怎么这名字怪怪的？</p>
+<h2 id="荀木狼与掌故大师">荀木狼与掌故大师</h2>
+<p>荀木狼既不姓荀，也不属狼。<br>网名源自于一个已经弃坑的 <a href="http://free.qidian.com/Free/ShowBook.aspx?bookid=32408" target="_blank" rel="external"> 小说</a> ，算是对夭折神作的缅怀。</p>
+<p>作者索大妈的书袋里，掌故颇多；而我也热衷考据，好奇，刨问秘辛。博客新名，也算个掌故吧。</p>
+<p>此纪博客即将周岁。受到 <a href="http://www.yangzhiping.com/tech/writing-space.html" target="_blank" rel="external"> 一种极简、纯粹思想 </a> 的影响，我决心踏上 <a href="http://www.chinaz.com/special/static-blog/index.html" target="_blank" rel="external"> 静态博客 </a> 这条 <s> 邪 </s> 路。</p>
+<p>与此同时，借机改名，是希望它能够承载两重寄寓：</p>
+<h2 id="鉴明自我映察世间">鉴明自我，映察世间</h2>
+<p>崂山道士有纸圆如镜，贾瑞有风月宝鉴。传说故事中，镜类的法宝总有不可思议的功能。<br>本节标题明了，已显雄心。能否做到，来日方长，诸君共勉。</p>
+<blockquote>
+<p><code>（实在编不下去，强行结尾了 orz）</code></p>
+</blockquote>
+<p>2015.8.4</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[本文为【荀木狼之镜】首篇，交代了博客和作者的取名缘由，并提出展望]]>
+    
+    </summary>
+    
+      <category term="寻因" scheme="http://www.cxumol.com/categories/%E5%AF%BB%E5%9B%A0/"/>
+    
+  </entry>
+  
+</feed>
