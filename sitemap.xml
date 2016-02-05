@@ -3,17 +3,22 @@
     
     <sitemap>
         <loc>http://www.cxumol.com/post-sitemap.xml</loc>
-        <lastmod>2015-10-01T08:42:47.807Z</lastmod>
+        <lastmod>2016-02-05T17:50:44.215Z</lastmod>
     </sitemap>
     
     <sitemap>
         <loc>http://www.cxumol.com/page-sitemap.xml</loc>
-        <lastmod>2015-09-19T11:19:22.587Z</lastmod>
+        <lastmod>2016-02-05T17:27:14.786Z</lastmod>
     </sitemap>
     
     <sitemap>
         <loc>http://www.cxumol.com/category-sitemap.xml</loc>
         <lastmod>2015-09-19T11:19:22.580Z</lastmod>
+    </sitemap>
+    
+    <sitemap>
+        <loc>http://www.cxumol.com/tag-sitemap.xml</loc>
+        <lastmod>2016-02-05T17:50:44.215Z</lastmod>
     </sitemap>
     
 </sitemapindex>
