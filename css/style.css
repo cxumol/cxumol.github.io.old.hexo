@@ -987,7 +987,7 @@ article .article-content em code {
   padding: 0 5px;
   margin: 0 2px;
   font-size: 90%;
-  white-space: nowrap;
+  white-space: normal;
   text-shadow: 0 1px #fff;
 }
 article .article-content p {
