@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.cxumol.com/"/>
-  <updated>2017-02-12T17:08:34.226Z</updated>
+  <updated>2017-02-12T17:25:54.377Z</updated>
   <id>http://www.cxumol.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.cxumol.com/back-to-blog/"/>
     <id>http://www.cxumol.com/back-to-blog/</id>
     <published>2017-02-12T15:16:44.000Z</published>
-    <updated>2017-02-12T17:08:34.226Z</updated>
+    <updated>2017-02-12T17:25:54.377Z</updated>
     
     <content type="html"><![CDATA[<h2 id="历史的微小进程">历史的微小进程</h2>
 <p>上个年代，博客盛行大江南北，长城内外(甚至我也有一个)。然而当时我懵懂无知，不太懂得欣赏。<br>
@@ -79,8 +79,6 @@ rss 应用范围之广，不光你能见到的几乎所有博客里都有，许�
     </summary>
     
       <category term="求果" scheme="http://www.cxumol.com/categories/%E6%B1%82%E6%9E%9C/"/>
-    
-      <category term="拙计" scheme="http://www.cxumol.com/categories/%E6%B1%82%E6%9E%9C/%E6%8B%99%E8%AE%A1/"/>
     
     
       <category term="博客" scheme="http://www.cxumol.com/tags/%E5%8D%9A%E5%AE%A2/"/>
